@@ -1,0 +1,22 @@
+a {
+    color: #FFD700; /* Bright yellow color for the text */
+    font-weight: bold; /* Makes the text bold */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effects */
+}
+
+a:hover {
+    color: #FFFFFF; /* White color text on hover */
+}
+
+.card-content {
+    color: #424242;
+}
+
+.small .card-image img{
+    height: auto !important;
+    margin-top: 1rem;
+}
+
+.card.horizontal .card-image {
+    max-width: 30% !important;
+}

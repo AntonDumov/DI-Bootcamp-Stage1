@@ -1,11 +1,11 @@
 a {
-    color: #FFD700; /* Bright yellow color for the text */
-    font-weight: bold; /* Makes the text bold */
-    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effects */
+    color: #FFD700;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
 }
 
 a:hover {
-    color: #FFFFFF; /* White color text on hover */
+    color: #FFFFFF;
 }
 
 .card-content {
